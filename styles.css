@@ -175,6 +175,7 @@ footer > div {
     align-items: center;
     justify-content: space-around;
     gap: 2rem;
+    cursor: pointer;
 }
 
 .footer-links {
